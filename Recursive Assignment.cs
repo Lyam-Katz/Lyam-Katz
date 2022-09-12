@@ -4,6 +4,14 @@
 //Creation Date: 2021-05-29
 //Modified Date: 2021-06-03
 //Description: This program is designed to check if each word in a text file of words is a monkey word or not
+/*
+Monkey Word Rules
+There are 2 rules that determine if a word is a valid Monkey Word or not:
+1. A Monkey Word is a special word called an A Word, which may be optionally followed by the letter “N” and
+then followed by a Monkey Word
+2. An A-Word is either only a single letter “A”, OR the letter “B” followed by a Monkey Word followed by the
+letter “S”
+*/
 
 using System;
 using System.IO;

@@ -1,6 +1,6 @@
 //Author: Lyam Katz
 //File Name: main.cs
-//Project Name: MP2 - Grade 12
+//Project Name: MP2
 //Creation Date: 2021-05-29
 //Modified Date: 2021-06-03
 //Description: This program is designed to check if each word in a text file of words is a monkey word or not
